@@ -1,5 +1,5 @@
 ## Random-Numbers
-### Programm to depict the chances of possible outcome when the process is repeated large number of times. This is also known as  <a href="https://en.wikipedia.org/wiki/Law_of_large_numbers" target="_blank">  "Law of Large Numbers". </a>
+### Program to depict the chances of possible outcome when the process is repeated large number of times. This is also known as  <a href="https://en.wikipedia.org/wiki/Law_of_large_numbers" target="_blank">  "Law of Large Numbers". </a>
 
 ### Coin-toss simulation:
 ![image](https://user-images.githubusercontent.com/47412487/77350564-b6d73080-6d62-11ea-82da-0611f7a6790c.PNG)
